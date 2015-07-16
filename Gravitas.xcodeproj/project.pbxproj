@@ -1,0 +1,431 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E1AF460C1B58342200F476DD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AF460B1B58342200F476DD /* main.m */; };
+		E1AF460F1B58342200F476DD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AF460E1B58342200F476DD /* AppDelegate.m */; };
+		E1AF46121B58342200F476DD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AF46111B58342200F476DD /* ViewController.m */; };
+		E1AF46151B58342200F476DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1AF46131B58342200F476DD /* Main.storyboard */; };
+		E1AF46171B58342200F476DD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1AF46161B58342200F476DD /* Images.xcassets */; };
+		E1AF461A1B58342200F476DD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E1AF46181B58342200F476DD /* LaunchScreen.xib */; };
+		E1AF46261B58342200F476DD /* GravitasTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AF46251B58342200F476DD /* GravitasTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E1AF46201B58342200F476DD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E1AF45FE1B58342200F476DD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E1AF46051B58342200F476DD;
+			remoteInfo = Gravitas;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E1AF46061B58342200F476DD /* Gravitas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gravitas.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1AF460A1B58342200F476DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1AF460B1B58342200F476DD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E1AF460D1B58342200F476DD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		E1AF460E1B58342200F476DD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		E1AF46101B58342200F476DD /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		E1AF46111B58342200F476DD /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		E1AF46141B58342200F476DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E1AF46161B58342200F476DD /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		E1AF46191B58342200F476DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		E1AF461F1B58342200F476DD /* GravitasTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GravitasTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1AF46241B58342200F476DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1AF46251B58342200F476DD /* GravitasTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GravitasTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E1AF46031B58342200F476DD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E1AF461C1B58342200F476DD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E1AF45FD1B58342200F476DD = {
+			isa = PBXGroup;
+			children = (
+				E1AF46081B58342200F476DD /* Gravitas */,
+				E1AF46221B58342200F476DD /* GravitasTests */,
+				E1AF46071B58342200F476DD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E1AF46071B58342200F476DD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E1AF46061B58342200F476DD /* Gravitas.app */,
+				E1AF461F1B58342200F476DD /* GravitasTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E1AF46081B58342200F476DD /* Gravitas */ = {
+			isa = PBXGroup;
+			children = (
+				E1AF460D1B58342200F476DD /* AppDelegate.h */,
+				E1AF460E1B58342200F476DD /* AppDelegate.m */,
+				E1AF46101B58342200F476DD /* ViewController.h */,
+				E1AF46111B58342200F476DD /* ViewController.m */,
+				E1AF46131B58342200F476DD /* Main.storyboard */,
+				E1AF46161B58342200F476DD /* Images.xcassets */,
+				E1AF46181B58342200F476DD /* LaunchScreen.xib */,
+				E1AF46091B58342200F476DD /* Supporting Files */,
+			);
+			path = Gravitas;
+			sourceTree = "<group>";
+		};
+		E1AF46091B58342200F476DD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E1AF460A1B58342200F476DD /* Info.plist */,
+				E1AF460B1B58342200F476DD /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E1AF46221B58342200F476DD /* GravitasTests */ = {
+			isa = PBXGroup;
+			children = (
+				E1AF46251B58342200F476DD /* GravitasTests.m */,
+				E1AF46231B58342200F476DD /* Supporting Files */,
+			);
+			path = GravitasTests;
+			sourceTree = "<group>";
+		};
+		E1AF46231B58342200F476DD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E1AF46241B58342200F476DD /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E1AF46051B58342200F476DD /* Gravitas */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E1AF46291B58342200F476DD /* Build configuration list for PBXNativeTarget "Gravitas" */;
+			buildPhases = (
+				E1AF46021B58342200F476DD /* Sources */,
+				E1AF46031B58342200F476DD /* Frameworks */,
+				E1AF46041B58342200F476DD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Gravitas;
+			productName = Gravitas;
+			productReference = E1AF46061B58342200F476DD /* Gravitas.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E1AF461E1B58342200F476DD /* GravitasTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E1AF462C1B58342200F476DD /* Build configuration list for PBXNativeTarget "GravitasTests" */;
+			buildPhases = (
+				E1AF461B1B58342200F476DD /* Sources */,
+				E1AF461C1B58342200F476DD /* Frameworks */,
+				E1AF461D1B58342200F476DD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E1AF46211B58342200F476DD /* PBXTargetDependency */,
+			);
+			name = GravitasTests;
+			productName = GravitasTests;
+			productReference = E1AF461F1B58342200F476DD /* GravitasTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E1AF45FE1B58342200F476DD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = "Keshav Bansal";
+				TargetAttributes = {
+					E1AF46051B58342200F476DD = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					E1AF461E1B58342200F476DD = {
+						CreatedOnToolsVersion = 6.4;
+						TestTargetID = E1AF46051B58342200F476DD;
+					};
+				};
+			};
+			buildConfigurationList = E1AF46011B58342200F476DD /* Build configuration list for PBXProject "Gravitas" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E1AF45FD1B58342200F476DD;
+			productRefGroup = E1AF46071B58342200F476DD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E1AF46051B58342200F476DD /* Gravitas */,
+				E1AF461E1B58342200F476DD /* GravitasTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E1AF46041B58342200F476DD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1AF46151B58342200F476DD /* Main.storyboard in Resources */,
+				E1AF461A1B58342200F476DD /* LaunchScreen.xib in Resources */,
+				E1AF46171B58342200F476DD /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E1AF461D1B58342200F476DD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E1AF46021B58342200F476DD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1AF46121B58342200F476DD /* ViewController.m in Sources */,
+				E1AF460F1B58342200F476DD /* AppDelegate.m in Sources */,
+				E1AF460C1B58342200F476DD /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E1AF461B1B58342200F476DD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1AF46261B58342200F476DD /* GravitasTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E1AF46211B58342200F476DD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E1AF46051B58342200F476DD /* Gravitas */;
+			targetProxy = E1AF46201B58342200F476DD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		E1AF46131B58342200F476DD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E1AF46141B58342200F476DD /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		E1AF46181B58342200F476DD /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E1AF46191B58342200F476DD /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E1AF46271B58342200F476DD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		E1AF46281B58342200F476DD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E1AF462A1B58342200F476DD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Gravitas/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		E1AF462B1B58342200F476DD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Gravitas/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		E1AF462D1B58342200F476DD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = GravitasTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Gravitas.app/Gravitas";
+			};
+			name = Debug;
+		};
+		E1AF462E1B58342200F476DD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = GravitasTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Gravitas.app/Gravitas";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E1AF46011B58342200F476DD /* Build configuration list for PBXProject "Gravitas" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1AF46271B58342200F476DD /* Debug */,
+				E1AF46281B58342200F476DD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E1AF46291B58342200F476DD /* Build configuration list for PBXNativeTarget "Gravitas" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1AF462A1B58342200F476DD /* Debug */,
+				E1AF462B1B58342200F476DD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		E1AF462C1B58342200F476DD /* Build configuration list for PBXNativeTarget "GravitasTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1AF462D1B58342200F476DD /* Debug */,
+				E1AF462E1B58342200F476DD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E1AF45FE1B58342200F476DD /* Project object */;
+}
