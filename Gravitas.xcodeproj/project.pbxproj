@@ -7,13 +7,81 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E100A45C1B65608700F71F23 /* keshav bansal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E100A45B1B65608700F71F23 /* keshav bansal.jpg */; };
+		E122A8391B5EAADD003940C4 /* launch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E122A8381B5EAADD003940C4 /* launch.jpg */; };
+		E1593EA21B5E64030097BB23 /* mappoint.png in Resources */ = {isa = PBXBuildFile; fileRef = E1593EA11B5E64030097BB23 /* mappoint.png */; };
+		E1593EA41B5E740A0097BB23 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = E1593EA31B5E740A0097BB23 /* back.png */; };
+		E1593EAA1B5E77120097BB23 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1593EA91B5E77120097BB23 /* Images.xcassets */; };
+		E16FD60F1B7135F300EBD8B2 /* searchicon.png in Resources */ = {isa = PBXBuildFile; fileRef = E16FD60E1B7135F300EBD8B2 /* searchicon.png */; };
+		E171744A1B651FFC0049BA1A /* vit2.gif in Resources */ = {isa = PBXBuildFile; fileRef = E17174451B651FFC0049BA1A /* vit2.gif */; };
+		E171744B1B651FFC0049BA1A /* vit3.gif in Resources */ = {isa = PBXBuildFile; fileRef = E17174461B651FFC0049BA1A /* vit3.gif */; };
+		E171744C1B651FFC0049BA1A /* vit4.gif in Resources */ = {isa = PBXBuildFile; fileRef = E17174471B651FFC0049BA1A /* vit4.gif */; };
+		E171744D1B651FFC0049BA1A /* vit5.gif in Resources */ = {isa = PBXBuildFile; fileRef = E17174481B651FFC0049BA1A /* vit5.gif */; };
+		E17174501B65202D0049BA1A /* vit1.gif in Resources */ = {isa = PBXBuildFile; fileRef = E171744F1B65202D0049BA1A /* vit1.gif */; };
+		E17174521B6521EC0049BA1A /* mask.png in Resources */ = {isa = PBXBuildFile; fileRef = E17174511B6521EC0049BA1A /* mask.png */; };
+		E17174561B65252E0049BA1A /* grav logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E17174551B65252E0049BA1A /* grav logo.png */; };
+		E171745D1B65289E0049BA1A /* divyansh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E17174571B65289E0049BA1A /* divyansh.jpg */; };
+		E171745E1B65289E0049BA1A /* logo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E17174581B65289E0049BA1A /* logo1.jpg */; };
+		E171745F1B65289E0049BA1A /* pranjal singh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E17174591B65289E0049BA1A /* pranjal singh.jpg */; };
+		E17174611B65289E0049BA1A /* vinayak.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E171745B1B65289E0049BA1A /* vinayak.jpg */; };
+		E17174621B65289E0049BA1A /* vit_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E171745C1B65289E0049BA1A /* vit_logo.png */; };
+		E17174641B6528BB0049BA1A /* rishav shaw.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E17174631B6528BB0049BA1A /* rishav shaw.jpg */; };
+		E1AD52161B5BA7AA00B3E734 /* NSObject+SBJson.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD51FE1B5BA7AA00B3E734 /* NSObject+SBJson.m */; };
+		E1AD52171B5BA7AA00B3E734 /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD52011B5BA7AA00B3E734 /* SBJsonParser.m */; };
+		E1AD52181B5BA7AA00B3E734 /* SBJsonStreamParser.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD52031B5BA7AA00B3E734 /* SBJsonStreamParser.m */; };
+		E1AD52191B5BA7AA00B3E734 /* SBJsonStreamParserAccumulator.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD52051B5BA7AA00B3E734 /* SBJsonStreamParserAccumulator.m */; };
+		E1AD521A1B5BA7AA00B3E734 /* SBJsonStreamParserAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD52071B5BA7AA00B3E734 /* SBJsonStreamParserAdapter.m */; };
+		E1AD521B1B5BA7AA00B3E734 /* SBJsonStreamParserState.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD52091B5BA7AA00B3E734 /* SBJsonStreamParserState.m */; };
+		E1AD521C1B5BA7AA00B3E734 /* SBJsonStreamWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD520B1B5BA7AA00B3E734 /* SBJsonStreamWriter.m */; };
+		E1AD521D1B5BA7AA00B3E734 /* SBJsonStreamWriterAccumulator.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD520D1B5BA7AA00B3E734 /* SBJsonStreamWriterAccumulator.m */; };
+		E1AD521E1B5BA7AA00B3E734 /* SBJsonStreamWriterState.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD520F1B5BA7AA00B3E734 /* SBJsonStreamWriterState.m */; };
+		E1AD521F1B5BA7AA00B3E734 /* SBJsonTokeniser.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD52111B5BA7AA00B3E734 /* SBJsonTokeniser.m */; };
+		E1AD52201B5BA7AA00B3E734 /* SBJsonUTF8Stream.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD52131B5BA7AA00B3E734 /* SBJsonUTF8Stream.m */; };
+		E1AD52211B5BA7AA00B3E734 /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD52151B5BA7AA00B3E734 /* SBJsonWriter.m */; };
+		E1AD52311B5BB07400B3E734 /* applied.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD52251B5BB07400B3E734 /* applied.jpg */; };
+		E1AD52321B5BB07400B3E734 /* bioxyn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD52261B5BB07400B3E734 /* bioxyn.jpg */; };
+		E1AD52331B5BB07400B3E734 /* bits.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD52271B5BB07400B3E734 /* bits.jpg */; };
+		E1AD52341B5BB07400B3E734 /* builtrix.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD52281B5BB07400B3E734 /* builtrix.jpg */; };
+		E1AD52351B5BB07400B3E734 /* informal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD52291B5BB07400B3E734 /* informal.jpg */; };
+		E1AD52361B5BB07400B3E734 /* management.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD522A1B5BB07400B3E734 /* management.jpg */; };
+		E1AD52371B5BB07400B3E734 /* online.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD522B1B5BB07400B3E734 /* online.jpg */; };
+		E1AD52381B5BB07400B3E734 /* premium.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD522C1B5BB07400B3E734 /* premium.jpg */; };
+		E1AD52391B5BB07400B3E734 /* quiz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD522D1B5BB07400B3E734 /* quiz.jpg */; };
+		E1AD523A1B5BB07400B3E734 /* Robotix.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD522E1B5BB07400B3E734 /* Robotix.jpg */; };
+		E1AD523B1B5BB07400B3E734 /* school.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD522F1B5BB07400B3E734 /* school.jpg */; };
+		E1AD523C1B5BB07400B3E734 /* workshop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD52301B5BB07400B3E734 /* workshop.jpg */; };
+		E1AD523E1B5BB93E00B3E734 /* circuitrix.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1AD523D1B5BB93E00B3E734 /* circuitrix.jpg */; };
 		E1AF460C1B58342200F476DD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AF460B1B58342200F476DD /* main.m */; };
 		E1AF460F1B58342200F476DD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AF460E1B58342200F476DD /* AppDelegate.m */; };
 		E1AF46121B58342200F476DD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AF46111B58342200F476DD /* ViewController.m */; };
 		E1AF46151B58342200F476DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1AF46131B58342200F476DD /* Main.storyboard */; };
-		E1AF46171B58342200F476DD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1AF46161B58342200F476DD /* Images.xcassets */; };
 		E1AF461A1B58342200F476DD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E1AF46181B58342200F476DD /* LaunchScreen.xib */; };
 		E1AF46261B58342200F476DD /* GravitasTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AF46251B58342200F476DD /* GravitasTests.m */; };
+		E1AF46451B5836E600F476DD /* EventsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AF46441B5836E600F476DD /* EventsViewController.m */; };
+		E1AF464B1B583D7700F476DD /* EventInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AF464A1B583D7700F476DD /* EventInfo.m */; };
+		E1BA22651B5F8F0900747B55 /* TechnicalController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1BA22641B5F8F0900747B55 /* TechnicalController.m */; };
+		E1BE3F371B6D1FAE005BC50D /* akhil ranjan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1BE3F361B6D1FAE005BC50D /* akhil ranjan.jpg */; };
+		E1C4A4771B66507500276F72 /* viren chugh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1C4A4761B66507500276F72 /* viren chugh.jpg */; };
+		E1EC1A071B5A31EA00CCDCBB /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1EC1A061B5A31EA00CCDCBB /* WebViewController.m */; };
+		E1EF4EEA1B5A88A900BF790E /* bio copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EDB1B5A88A900BF790E /* bio copy.jpg */; };
+		E1EF4EEB1B5A88A900BF790E /* bits copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EDC1B5A88A900BF790E /* bits copy.jpg */; };
+		E1EF4EEC1B5A88A900BF790E /* builtrix copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EDD1B5A88A900BF790E /* builtrix copy.jpg */; };
+		E1EF4EED1B5A88A900BF790E /* circuit copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EDE1B5A88A900BF790E /* circuit copy.jpg */; };
+		E1EF4EEE1B5A88A900BF790E /* engineering copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EDF1B5A88A900BF790E /* engineering copy.jpg */; };
+		E1EF4EF01B5A88A900BF790E /* FRONT PAGE copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EE11B5A88A900BF790E /* FRONT PAGE copy.jpg */; };
+		E1EF4EF11B5A88A900BF790E /* informal copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EE21B5A88A900BF790E /* informal copy.jpg */; };
+		E1EF4EF21B5A88A900BF790E /* management copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EE31B5A88A900BF790E /* management copy.jpg */; };
+		E1EF4EF31B5A88A900BF790E /* online copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EE41B5A88A900BF790E /* online copy.jpg */; };
+		E1EF4EF41B5A88A900BF790E /* premium copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EE51B5A88A900BF790E /* premium copy.jpg */; };
+		E1EF4EF51B5A88A900BF790E /* quiz copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EE61B5A88A900BF790E /* quiz copy.jpg */; };
+		E1EF4EF61B5A88A900BF790E /* robo copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EE71B5A88A900BF790E /* robo copy.jpg */; };
+		E1EF4EF71B5A88A900BF790E /* school copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EE81B5A88A900BF790E /* school copy.jpg */; };
+		E1EF4EF81B5A88A900BF790E /* workshop copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EE91B5A88A900BF790E /* workshop copy.jpg */; };
+		E1EF4EFB1B5A8C9A00BF790E /* aboutView.m in Sources */ = {isa = PBXBuildFile; fileRef = E1EF4EFA1B5A8C9A00BF790E /* aboutView.m */; };
+		E1EF4EFD1B5AEE7D00BF790E /* clock.png in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EFC1B5AEE7D00BF790E /* clock.png */; };
+		E1EF4EFF1B5AF1B300BF790E /* second.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4EFE1B5AF1B300BF790E /* second.jpg */; };
+		E1EF4F171B5AF3C700BF790E /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = E1EF4F151B5AF3C700BF790E /* CustomCell.m */; };
+		E1EF4F181B5AF3C700BF790E /* CustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E1EF4F161B5AF3C700BF790E /* CustomCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +95,63 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E100A45B1B65608700F71F23 /* keshav bansal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "keshav bansal.jpg"; path = "gravitas images/dev/keshav bansal.jpg"; sourceTree = "<group>"; };
+		E122A8381B5EAADD003940C4 /* launch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = launch.jpg; path = "gravitas images/launch.jpg"; sourceTree = "<group>"; };
+		E1593EA11B5E64030097BB23 /* mappoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mappoint.png; path = "gravitas images/mappoint.png"; sourceTree = "<group>"; };
+		E1593EA31B5E740A0097BB23 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back.png; path = "gravitas images/back.png"; sourceTree = "<group>"; };
+		E1593EA91B5E77120097BB23 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		E16FD60E1B7135F300EBD8B2 /* searchicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = searchicon.png; path = "gravitas images/searchicon.png"; sourceTree = "<group>"; };
+		E17174451B651FFC0049BA1A /* vit2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = vit2.gif; path = "gravitas images/vit2.gif"; sourceTree = "<group>"; };
+		E17174461B651FFC0049BA1A /* vit3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = vit3.gif; path = "gravitas images/vit3.gif"; sourceTree = "<group>"; };
+		E17174471B651FFC0049BA1A /* vit4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = vit4.gif; path = "gravitas images/vit4.gif"; sourceTree = "<group>"; };
+		E17174481B651FFC0049BA1A /* vit5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = vit5.gif; path = "gravitas images/vit5.gif"; sourceTree = "<group>"; };
+		E171744F1B65202D0049BA1A /* vit1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = vit1.gif; path = "gravitas images/vit1.gif"; sourceTree = "<group>"; };
+		E17174511B6521EC0049BA1A /* mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mask.png; path = "gravitas images/mask.png"; sourceTree = "<group>"; };
+		E17174551B65252E0049BA1A /* grav logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "grav logo.png"; path = "gravitas images/grav logo.png"; sourceTree = "<group>"; };
+		E17174571B65289E0049BA1A /* divyansh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = divyansh.jpg; path = "gravitas images/dev/divyansh.jpg"; sourceTree = "<group>"; };
+		E17174581B65289E0049BA1A /* logo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = logo1.jpg; path = "gravitas images/dev/logo1.jpg"; sourceTree = "<group>"; };
+		E17174591B65289E0049BA1A /* pranjal singh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "pranjal singh.jpg"; path = "gravitas images/dev/pranjal singh.jpg"; sourceTree = "<group>"; };
+		E171745B1B65289E0049BA1A /* vinayak.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = vinayak.jpg; path = "gravitas images/dev/vinayak.jpg"; sourceTree = "<group>"; };
+		E171745C1B65289E0049BA1A /* vit_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = vit_logo.png; path = "gravitas images/dev/vit_logo.png"; sourceTree = "<group>"; };
+		E17174631B6528BB0049BA1A /* rishav shaw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "rishav shaw.jpg"; path = "gravitas images/dev/rishav shaw.jpg"; sourceTree = "<group>"; };
+		E1AD51FD1B5BA7AA00B3E734 /* NSObject+SBJson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSObject+SBJson.h"; path = "json Classes/NSObject+SBJson.h"; sourceTree = "<group>"; };
+		E1AD51FE1B5BA7AA00B3E734 /* NSObject+SBJson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSObject+SBJson.m"; path = "json Classes/NSObject+SBJson.m"; sourceTree = "<group>"; };
+		E1AD51FF1B5BA7AA00B3E734 /* SBJson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJson.h; path = "json Classes/SBJson.h"; sourceTree = "<group>"; };
+		E1AD52001B5BA7AA00B3E734 /* SBJsonParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonParser.h; path = "json Classes/SBJsonParser.h"; sourceTree = "<group>"; };
+		E1AD52011B5BA7AA00B3E734 /* SBJsonParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonParser.m; path = "json Classes/SBJsonParser.m"; sourceTree = "<group>"; };
+		E1AD52021B5BA7AA00B3E734 /* SBJsonStreamParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonStreamParser.h; path = "json Classes/SBJsonStreamParser.h"; sourceTree = "<group>"; };
+		E1AD52031B5BA7AA00B3E734 /* SBJsonStreamParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonStreamParser.m; path = "json Classes/SBJsonStreamParser.m"; sourceTree = "<group>"; };
+		E1AD52041B5BA7AA00B3E734 /* SBJsonStreamParserAccumulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonStreamParserAccumulator.h; path = "json Classes/SBJsonStreamParserAccumulator.h"; sourceTree = "<group>"; };
+		E1AD52051B5BA7AA00B3E734 /* SBJsonStreamParserAccumulator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonStreamParserAccumulator.m; path = "json Classes/SBJsonStreamParserAccumulator.m"; sourceTree = "<group>"; };
+		E1AD52061B5BA7AA00B3E734 /* SBJsonStreamParserAdapter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonStreamParserAdapter.h; path = "json Classes/SBJsonStreamParserAdapter.h"; sourceTree = "<group>"; };
+		E1AD52071B5BA7AA00B3E734 /* SBJsonStreamParserAdapter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonStreamParserAdapter.m; path = "json Classes/SBJsonStreamParserAdapter.m"; sourceTree = "<group>"; };
+		E1AD52081B5BA7AA00B3E734 /* SBJsonStreamParserState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonStreamParserState.h; path = "json Classes/SBJsonStreamParserState.h"; sourceTree = "<group>"; };
+		E1AD52091B5BA7AA00B3E734 /* SBJsonStreamParserState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonStreamParserState.m; path = "json Classes/SBJsonStreamParserState.m"; sourceTree = "<group>"; };
+		E1AD520A1B5BA7AA00B3E734 /* SBJsonStreamWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonStreamWriter.h; path = "json Classes/SBJsonStreamWriter.h"; sourceTree = "<group>"; };
+		E1AD520B1B5BA7AA00B3E734 /* SBJsonStreamWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonStreamWriter.m; path = "json Classes/SBJsonStreamWriter.m"; sourceTree = "<group>"; };
+		E1AD520C1B5BA7AA00B3E734 /* SBJsonStreamWriterAccumulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonStreamWriterAccumulator.h; path = "json Classes/SBJsonStreamWriterAccumulator.h"; sourceTree = "<group>"; };
+		E1AD520D1B5BA7AA00B3E734 /* SBJsonStreamWriterAccumulator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonStreamWriterAccumulator.m; path = "json Classes/SBJsonStreamWriterAccumulator.m"; sourceTree = "<group>"; };
+		E1AD520E1B5BA7AA00B3E734 /* SBJsonStreamWriterState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonStreamWriterState.h; path = "json Classes/SBJsonStreamWriterState.h"; sourceTree = "<group>"; };
+		E1AD520F1B5BA7AA00B3E734 /* SBJsonStreamWriterState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonStreamWriterState.m; path = "json Classes/SBJsonStreamWriterState.m"; sourceTree = "<group>"; };
+		E1AD52101B5BA7AA00B3E734 /* SBJsonTokeniser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonTokeniser.h; path = "json Classes/SBJsonTokeniser.h"; sourceTree = "<group>"; };
+		E1AD52111B5BA7AA00B3E734 /* SBJsonTokeniser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonTokeniser.m; path = "json Classes/SBJsonTokeniser.m"; sourceTree = "<group>"; };
+		E1AD52121B5BA7AA00B3E734 /* SBJsonUTF8Stream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonUTF8Stream.h; path = "json Classes/SBJsonUTF8Stream.h"; sourceTree = "<group>"; };
+		E1AD52131B5BA7AA00B3E734 /* SBJsonUTF8Stream.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonUTF8Stream.m; path = "json Classes/SBJsonUTF8Stream.m"; sourceTree = "<group>"; };
+		E1AD52141B5BA7AA00B3E734 /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonWriter.h; path = "json Classes/SBJsonWriter.h"; sourceTree = "<group>"; };
+		E1AD52151B5BA7AA00B3E734 /* SBJsonWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonWriter.m; path = "json Classes/SBJsonWriter.m"; sourceTree = "<group>"; };
+		E1AD52251B5BB07400B3E734 /* applied.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = applied.jpg; path = "gravitas images/applied.jpg"; sourceTree = "<group>"; };
+		E1AD52261B5BB07400B3E734 /* bioxyn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bioxyn.jpg; path = "gravitas images/bioxyn.jpg"; sourceTree = "<group>"; };
+		E1AD52271B5BB07400B3E734 /* bits.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bits.jpg; path = "gravitas images/bits.jpg"; sourceTree = "<group>"; };
+		E1AD52281B5BB07400B3E734 /* builtrix.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = builtrix.jpg; path = "gravitas images/builtrix.jpg"; sourceTree = "<group>"; };
+		E1AD52291B5BB07400B3E734 /* informal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = informal.jpg; path = "gravitas images/informal.jpg"; sourceTree = "<group>"; };
+		E1AD522A1B5BB07400B3E734 /* management.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = management.jpg; path = "gravitas images/management.jpg"; sourceTree = "<group>"; };
+		E1AD522B1B5BB07400B3E734 /* online.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = online.jpg; path = "gravitas images/online.jpg"; sourceTree = "<group>"; };
+		E1AD522C1B5BB07400B3E734 /* premium.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = premium.jpg; path = "gravitas images/premium.jpg"; sourceTree = "<group>"; };
+		E1AD522D1B5BB07400B3E734 /* quiz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = quiz.jpg; path = "gravitas images/quiz.jpg"; sourceTree = "<group>"; };
+		E1AD522E1B5BB07400B3E734 /* Robotix.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Robotix.jpg; path = "gravitas images/Robotix.jpg"; sourceTree = "<group>"; };
+		E1AD522F1B5BB07400B3E734 /* school.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = school.jpg; path = "gravitas images/school.jpg"; sourceTree = "<group>"; };
+		E1AD52301B5BB07400B3E734 /* workshop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = workshop.jpg; path = "gravitas images/workshop.jpg"; sourceTree = "<group>"; };
+		E1AD523D1B5BB93E00B3E734 /* circuitrix.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = circuitrix.jpg; path = "gravitas images/circuitrix.jpg"; sourceTree = "<group>"; };
 		E1AF46061B58342200F476DD /* Gravitas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gravitas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1AF460A1B58342200F476DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E1AF460B1B58342200F476DD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -35,11 +160,41 @@
 		E1AF46101B58342200F476DD /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E1AF46111B58342200F476DD /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E1AF46141B58342200F476DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E1AF46161B58342200F476DD /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		E1AF46191B58342200F476DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		E1AF461F1B58342200F476DD /* GravitasTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GravitasTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1AF46241B58342200F476DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E1AF46251B58342200F476DD /* GravitasTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GravitasTests.m; sourceTree = "<group>"; };
+		E1AF46431B5836E600F476DD /* EventsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventsViewController.h; sourceTree = "<group>"; };
+		E1AF46441B5836E600F476DD /* EventsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventsViewController.m; sourceTree = "<group>"; };
+		E1AF46491B583D7700F476DD /* EventInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventInfo.h; sourceTree = "<group>"; };
+		E1AF464A1B583D7700F476DD /* EventInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventInfo.m; sourceTree = "<group>"; };
+		E1BA22631B5F8F0900747B55 /* TechnicalController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TechnicalController.h; sourceTree = "<group>"; };
+		E1BA22641B5F8F0900747B55 /* TechnicalController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TechnicalController.m; sourceTree = "<group>"; };
+		E1BE3F361B6D1FAE005BC50D /* akhil ranjan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "akhil ranjan.jpg"; path = "gravitas images/dev/akhil ranjan.jpg"; sourceTree = "<group>"; };
+		E1C4A4761B66507500276F72 /* viren chugh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "viren chugh.jpg"; path = "gravitas images/dev/viren chugh.jpg"; sourceTree = "<group>"; };
+		E1EC1A051B5A31EA00CCDCBB /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		E1EC1A061B5A31EA00CCDCBB /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
+		E1EF4EDB1B5A88A900BF790E /* bio copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "bio copy.jpg"; path = "gravitas images/bio copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EDC1B5A88A900BF790E /* bits copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "bits copy.jpg"; path = "gravitas images/bits copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EDD1B5A88A900BF790E /* builtrix copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "builtrix copy.jpg"; path = "gravitas images/builtrix copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EDE1B5A88A900BF790E /* circuit copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "circuit copy.jpg"; path = "gravitas images/circuit copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EDF1B5A88A900BF790E /* engineering copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "engineering copy.jpg"; path = "gravitas images/engineering copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EE11B5A88A900BF790E /* FRONT PAGE copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "FRONT PAGE copy.jpg"; path = "gravitas images/FRONT PAGE copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EE21B5A88A900BF790E /* informal copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "informal copy.jpg"; path = "gravitas images/informal copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EE31B5A88A900BF790E /* management copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "management copy.jpg"; path = "gravitas images/management copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EE41B5A88A900BF790E /* online copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "online copy.jpg"; path = "gravitas images/online copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EE51B5A88A900BF790E /* premium copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "premium copy.jpg"; path = "gravitas images/premium copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EE61B5A88A900BF790E /* quiz copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "quiz copy.jpg"; path = "gravitas images/quiz copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EE71B5A88A900BF790E /* robo copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "robo copy.jpg"; path = "gravitas images/robo copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EE81B5A88A900BF790E /* school copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "school copy.jpg"; path = "gravitas images/school copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EE91B5A88A900BF790E /* workshop copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "workshop copy.jpg"; path = "gravitas images/workshop copy.jpg"; sourceTree = "<group>"; };
+		E1EF4EF91B5A8C9A00BF790E /* aboutView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aboutView.h; sourceTree = "<group>"; };
+		E1EF4EFA1B5A8C9A00BF790E /* aboutView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = aboutView.m; sourceTree = "<group>"; };
+		E1EF4EFC1B5AEE7D00BF790E /* clock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = clock.png; path = "gravitas images/clock.png"; sourceTree = "<group>"; };
+		E1EF4EFE1B5AF1B300BF790E /* second.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = second.jpg; path = "gravitas images/second.jpg"; sourceTree = "<group>"; };
+		E1EF4F141B5AF3C700BF790E /* CustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
+		E1EF4F151B5AF3C700BF790E /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
+		E1EF4F161B5AF3C700BF790E /* CustomCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +215,99 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E1AD51FC1B5BA77800B3E734 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				E100A45B1B65608700F71F23 /* keshav bansal.jpg */,
+				E1BE3F361B6D1FAE005BC50D /* akhil ranjan.jpg */,
+				E1C4A4761B66507500276F72 /* viren chugh.jpg */,
+				E17174631B6528BB0049BA1A /* rishav shaw.jpg */,
+				E17174571B65289E0049BA1A /* divyansh.jpg */,
+				E17174581B65289E0049BA1A /* logo1.jpg */,
+				E17174591B65289E0049BA1A /* pranjal singh.jpg */,
+				E171745B1B65289E0049BA1A /* vinayak.jpg */,
+				E16FD60E1B7135F300EBD8B2 /* searchicon.png */,
+				E171745C1B65289E0049BA1A /* vit_logo.png */,
+				E17174551B65252E0049BA1A /* grav logo.png */,
+				E17174511B6521EC0049BA1A /* mask.png */,
+				E122A8381B5EAADD003940C4 /* launch.jpg */,
+				E171744F1B65202D0049BA1A /* vit1.gif */,
+				E17174451B651FFC0049BA1A /* vit2.gif */,
+				E17174461B651FFC0049BA1A /* vit3.gif */,
+				E17174471B651FFC0049BA1A /* vit4.gif */,
+				E17174481B651FFC0049BA1A /* vit5.gif */,
+				E1593EA31B5E740A0097BB23 /* back.png */,
+				E1EF4EDB1B5A88A900BF790E /* bio copy.jpg */,
+				E1EF4EDC1B5A88A900BF790E /* bits copy.jpg */,
+				E1EF4EDD1B5A88A900BF790E /* builtrix copy.jpg */,
+				E1EF4EDE1B5A88A900BF790E /* circuit copy.jpg */,
+				E1EF4EDF1B5A88A900BF790E /* engineering copy.jpg */,
+				E1EF4EE11B5A88A900BF790E /* FRONT PAGE copy.jpg */,
+				E1EF4EE21B5A88A900BF790E /* informal copy.jpg */,
+				E1EF4EFC1B5AEE7D00BF790E /* clock.png */,
+				E1EF4EE31B5A88A900BF790E /* management copy.jpg */,
+				E1EF4EE41B5A88A900BF790E /* online copy.jpg */,
+				E1EF4EE51B5A88A900BF790E /* premium copy.jpg */,
+				E1EF4EE61B5A88A900BF790E /* quiz copy.jpg */,
+				E1EF4EFE1B5AF1B300BF790E /* second.jpg */,
+				E1EF4EE71B5A88A900BF790E /* robo copy.jpg */,
+				E1EF4EE81B5A88A900BF790E /* school copy.jpg */,
+				E1EF4EE91B5A88A900BF790E /* workshop copy.jpg */,
+				E1593EA11B5E64030097BB23 /* mappoint.png */,
+				E1AD52251B5BB07400B3E734 /* applied.jpg */,
+				E1AD52261B5BB07400B3E734 /* bioxyn.jpg */,
+				E1AD52271B5BB07400B3E734 /* bits.jpg */,
+				E1AD52281B5BB07400B3E734 /* builtrix.jpg */,
+				E1AD52291B5BB07400B3E734 /* informal.jpg */,
+				E1AD522A1B5BB07400B3E734 /* management.jpg */,
+				E1AD522B1B5BB07400B3E734 /* online.jpg */,
+				E1AD523D1B5BB93E00B3E734 /* circuitrix.jpg */,
+				E1AD522C1B5BB07400B3E734 /* premium.jpg */,
+				E1AD522D1B5BB07400B3E734 /* quiz.jpg */,
+				E1AD522E1B5BB07400B3E734 /* Robotix.jpg */,
+				E1AD522F1B5BB07400B3E734 /* school.jpg */,
+				E1AD52301B5BB07400B3E734 /* workshop.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		E1AD52221B5BA7C400B3E734 /* Json classes */ = {
+			isa = PBXGroup;
+			children = (
+				E1AD51FD1B5BA7AA00B3E734 /* NSObject+SBJson.h */,
+				E1AD51FE1B5BA7AA00B3E734 /* NSObject+SBJson.m */,
+				E1AD51FF1B5BA7AA00B3E734 /* SBJson.h */,
+				E1AD52001B5BA7AA00B3E734 /* SBJsonParser.h */,
+				E1AD52011B5BA7AA00B3E734 /* SBJsonParser.m */,
+				E1AD52021B5BA7AA00B3E734 /* SBJsonStreamParser.h */,
+				E1AD52031B5BA7AA00B3E734 /* SBJsonStreamParser.m */,
+				E1AD52041B5BA7AA00B3E734 /* SBJsonStreamParserAccumulator.h */,
+				E1AD52051B5BA7AA00B3E734 /* SBJsonStreamParserAccumulator.m */,
+				E1AD52061B5BA7AA00B3E734 /* SBJsonStreamParserAdapter.h */,
+				E1AD52071B5BA7AA00B3E734 /* SBJsonStreamParserAdapter.m */,
+				E1AD52081B5BA7AA00B3E734 /* SBJsonStreamParserState.h */,
+				E1AD52091B5BA7AA00B3E734 /* SBJsonStreamParserState.m */,
+				E1AD520A1B5BA7AA00B3E734 /* SBJsonStreamWriter.h */,
+				E1AD520B1B5BA7AA00B3E734 /* SBJsonStreamWriter.m */,
+				E1AD520C1B5BA7AA00B3E734 /* SBJsonStreamWriterAccumulator.h */,
+				E1AD520D1B5BA7AA00B3E734 /* SBJsonStreamWriterAccumulator.m */,
+				E1AD520E1B5BA7AA00B3E734 /* SBJsonStreamWriterState.h */,
+				E1AD520F1B5BA7AA00B3E734 /* SBJsonStreamWriterState.m */,
+				E1AD52101B5BA7AA00B3E734 /* SBJsonTokeniser.h */,
+				E1AD52111B5BA7AA00B3E734 /* SBJsonTokeniser.m */,
+				E1AD52121B5BA7AA00B3E734 /* SBJsonUTF8Stream.h */,
+				E1AD52131B5BA7AA00B3E734 /* SBJsonUTF8Stream.m */,
+				E1AD52141B5BA7AA00B3E734 /* SBJsonWriter.h */,
+				E1AD52151B5BA7AA00B3E734 /* SBJsonWriter.m */,
+			);
+			name = "Json classes";
+			sourceTree = "<group>";
+		};
 		E1AF45FD1B58342200F476DD = {
 			isa = PBXGroup;
 			children = (
+				E1AD52221B5BA7C400B3E734 /* Json classes */,
+				E1AD51FC1B5BA77800B3E734 /* Images */,
 				E1AF46081B58342200F476DD /* Gravitas */,
 				E1AF46221B58342200F476DD /* GravitasTests */,
 				E1AF46071B58342200F476DD /* Products */,
@@ -85,8 +330,21 @@
 				E1AF460E1B58342200F476DD /* AppDelegate.m */,
 				E1AF46101B58342200F476DD /* ViewController.h */,
 				E1AF46111B58342200F476DD /* ViewController.m */,
+				E1BA22631B5F8F0900747B55 /* TechnicalController.h */,
+				E1BA22641B5F8F0900747B55 /* TechnicalController.m */,
+				E1EF4EF91B5A8C9A00BF790E /* aboutView.h */,
+				E1EF4EFA1B5A8C9A00BF790E /* aboutView.m */,
+				E1AF46431B5836E600F476DD /* EventsViewController.h */,
+				E1AF46441B5836E600F476DD /* EventsViewController.m */,
+				E1EF4F141B5AF3C700BF790E /* CustomCell.h */,
+				E1EF4F151B5AF3C700BF790E /* CustomCell.m */,
+				E1EF4F161B5AF3C700BF790E /* CustomCell.xib */,
+				E1EC1A051B5A31EA00CCDCBB /* WebViewController.h */,
+				E1EC1A061B5A31EA00CCDCBB /* WebViewController.m */,
+				E1AF46491B583D7700F476DD /* EventInfo.h */,
+				E1AF464A1B583D7700F476DD /* EventInfo.m */,
 				E1AF46131B58342200F476DD /* Main.storyboard */,
-				E1AF46161B58342200F476DD /* Images.xcassets */,
+				E1593EA91B5E77120097BB23 /* Images.xcassets */,
 				E1AF46181B58342200F476DD /* LaunchScreen.xib */,
 				E1AF46091B58342200F476DD /* Supporting Files */,
 			);
@@ -168,6 +426,7 @@
 				TargetAttributes = {
 					E1AF46051B58342200F476DD = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = FWS9CX2UGP;
 					};
 					E1AF461E1B58342200F476DD = {
 						CreatedOnToolsVersion = 6.4;
@@ -199,9 +458,59 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1EF4EED1B5A88A900BF790E /* circuit copy.jpg in Resources */,
+				E1AD523B1B5BB07400B3E734 /* school.jpg in Resources */,
+				E171744B1B651FFC0049BA1A /* vit3.gif in Resources */,
+				E1593EA21B5E64030097BB23 /* mappoint.png in Resources */,
+				E1AD52331B5BB07400B3E734 /* bits.jpg in Resources */,
+				E1AD52381B5BB07400B3E734 /* premium.jpg in Resources */,
+				E1EF4EEE1B5A88A900BF790E /* engineering copy.jpg in Resources */,
+				E1AD523E1B5BB93E00B3E734 /* circuitrix.jpg in Resources */,
+				E1AD523A1B5BB07400B3E734 /* Robotix.jpg in Resources */,
+				E122A8391B5EAADD003940C4 /* launch.jpg in Resources */,
+				E171744A1B651FFC0049BA1A /* vit2.gif in Resources */,
+				E1593EAA1B5E77120097BB23 /* Images.xcassets in Resources */,
+				E171744D1B651FFC0049BA1A /* vit5.gif in Resources */,
+				E171745E1B65289E0049BA1A /* logo1.jpg in Resources */,
+				E17174501B65202D0049BA1A /* vit1.gif in Resources */,
+				E1AD52321B5BB07400B3E734 /* bioxyn.jpg in Resources */,
+				E1EF4EF31B5A88A900BF790E /* online copy.jpg in Resources */,
+				E17174561B65252E0049BA1A /* grav logo.png in Resources */,
+				E171745D1B65289E0049BA1A /* divyansh.jpg in Resources */,
+				E1AD52371B5BB07400B3E734 /* online.jpg in Resources */,
+				E1EF4EEB1B5A88A900BF790E /* bits copy.jpg in Resources */,
+				E1EF4EEA1B5A88A900BF790E /* bio copy.jpg in Resources */,
+				E1BE3F371B6D1FAE005BC50D /* akhil ranjan.jpg in Resources */,
+				E1EF4EF01B5A88A900BF790E /* FRONT PAGE copy.jpg in Resources */,
+				E17174641B6528BB0049BA1A /* rishav shaw.jpg in Resources */,
+				E1EF4EF71B5A88A900BF790E /* school copy.jpg in Resources */,
+				E1EF4EF11B5A88A900BF790E /* informal copy.jpg in Resources */,
+				E1C4A4771B66507500276F72 /* viren chugh.jpg in Resources */,
+				E1EF4EFF1B5AF1B300BF790E /* second.jpg in Resources */,
+				E1AD523C1B5BB07400B3E734 /* workshop.jpg in Resources */,
 				E1AF46151B58342200F476DD /* Main.storyboard in Resources */,
+				E1593EA41B5E740A0097BB23 /* back.png in Resources */,
+				E17174611B65289E0049BA1A /* vinayak.jpg in Resources */,
+				E1EF4EFD1B5AEE7D00BF790E /* clock.png in Resources */,
+				E17174621B65289E0049BA1A /* vit_logo.png in Resources */,
+				E1AD52391B5BB07400B3E734 /* quiz.jpg in Resources */,
+				E16FD60F1B7135F300EBD8B2 /* searchicon.png in Resources */,
+				E1EF4EF81B5A88A900BF790E /* workshop copy.jpg in Resources */,
+				E1EF4EF61B5A88A900BF790E /* robo copy.jpg in Resources */,
+				E171744C1B651FFC0049BA1A /* vit4.gif in Resources */,
+				E1EF4EF51B5A88A900BF790E /* quiz copy.jpg in Resources */,
+				E1AD52311B5BB07400B3E734 /* applied.jpg in Resources */,
+				E1AD52341B5BB07400B3E734 /* builtrix.jpg in Resources */,
 				E1AF461A1B58342200F476DD /* LaunchScreen.xib in Resources */,
-				E1AF46171B58342200F476DD /* Images.xcassets in Resources */,
+				E17174521B6521EC0049BA1A /* mask.png in Resources */,
+				E1EF4F181B5AF3C700BF790E /* CustomCell.xib in Resources */,
+				E1AD52361B5BB07400B3E734 /* management.jpg in Resources */,
+				E171745F1B65289E0049BA1A /* pranjal singh.jpg in Resources */,
+				E1AD52351B5BB07400B3E734 /* informal.jpg in Resources */,
+				E1EF4EEC1B5A88A900BF790E /* builtrix copy.jpg in Resources */,
+				E1EF4EF41B5A88A900BF790E /* premium copy.jpg in Resources */,
+				E100A45C1B65608700F71F23 /* keshav bansal.jpg in Resources */,
+				E1EF4EF21B5A88A900BF790E /* management copy.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +528,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1AD521E1B5BA7AA00B3E734 /* SBJsonStreamWriterState.m in Sources */,
+				E1BA22651B5F8F0900747B55 /* TechnicalController.m in Sources */,
+				E1AD52211B5BA7AA00B3E734 /* SBJsonWriter.m in Sources */,
 				E1AF46121B58342200F476DD /* ViewController.m in Sources */,
+				E1EC1A071B5A31EA00CCDCBB /* WebViewController.m in Sources */,
+				E1AD521D1B5BA7AA00B3E734 /* SBJsonStreamWriterAccumulator.m in Sources */,
+				E1AD52191B5BA7AA00B3E734 /* SBJsonStreamParserAccumulator.m in Sources */,
+				E1EF4F171B5AF3C700BF790E /* CustomCell.m in Sources */,
+				E1AD52171B5BA7AA00B3E734 /* SBJsonParser.m in Sources */,
+				E1EF4EFB1B5A8C9A00BF790E /* aboutView.m in Sources */,
+				E1AF464B1B583D7700F476DD /* EventInfo.m in Sources */,
+				E1AF46451B5836E600F476DD /* EventsViewController.m in Sources */,
 				E1AF460F1B58342200F476DD /* AppDelegate.m in Sources */,
+				E1AD52201B5BA7AA00B3E734 /* SBJsonUTF8Stream.m in Sources */,
+				E1AD521F1B5BA7AA00B3E734 /* SBJsonTokeniser.m in Sources */,
+				E1AD521B1B5BA7AA00B3E734 /* SBJsonStreamParserState.m in Sources */,
+				E1AD521A1B5BA7AA00B3E734 /* SBJsonStreamParserAdapter.m in Sources */,
+				E1AD52161B5BA7AA00B3E734 /* NSObject+SBJson.m in Sources */,
 				E1AF460C1B58342200F476DD /* main.m in Sources */,
+				E1AD521C1B5BA7AA00B3E734 /* SBJsonStreamWriter.m in Sources */,
+				E1AD52181B5BA7AA00B3E734 /* SBJsonStreamParser.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -346,20 +673,30 @@
 		E1AF462A1B58342200F476DD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Gravitas/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
 		E1AF462B1B58342200F476DD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Gravitas/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -416,6 +753,7 @@
 				E1AF462B1B58342200F476DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E1AF462C1B58342200F476DD /* Build configuration list for PBXNativeTarget "GravitasTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +762,7 @@
 				E1AF462E1B58342200F476DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

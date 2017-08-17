@@ -7,9 +7,21 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "EventsViewController.h"
+#import "TechnicalController.h"
 
 @interface ViewController : UIViewController
+{
+    int pic;
+    IBOutlet UILabel *countdownLabel;
+    NSDate *des;
+    NSTimer *timer,*timer2;
+    IBOutlet UIImageView *imageView;
+    NSArray *images;
+}
 
+-(IBAction)event:(id)sender;
+-(IBAction)tShirts;
 
 @end
 
